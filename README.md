@@ -1,7 +1,7 @@
 # Horiseon
 
 ## Project
-Client A (representing their marketing agency Horiseon) requests if I can refactor their website to follow their accessibility standards,
+Client A (representing their marketing agency: Horiseon) requests if I can refactor their website to follow their accessibility standards,
 so that it is optimized for search engines.
 
 Their standards follow:
