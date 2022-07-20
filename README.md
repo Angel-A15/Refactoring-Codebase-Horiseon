@@ -44,4 +44,4 @@ corresponding changes of the HTML semantics/elements
 
 ![Web capture_20-7-2022_8553_](https://user-images.githubusercontent.com/106582411/179989939-12bea7fd-a949-4fb9-b41a-59f51e96b474.jpeg)
 
-
+You can view the webpage here. https://angel-a15.github.io/Wkly-Ch1/
