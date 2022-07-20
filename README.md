@@ -31,7 +31,7 @@ follow a sequential order, and is convenient for veiwer to browse semantics
 * Added alt attributes for all img elements; This resulted in creating a section for 
 company image/background, so that it has an alt attribute
 
-* Ensuring all head directories(including the title) link to their corresponding
+* Ensuring all head directories (including the title) link to their corresponding
 element
 
 * Removing unneccessary semantics and replacing them with proper
