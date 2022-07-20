@@ -42,7 +42,7 @@ corresponding changes of the HTML semantics/elements
 
 ## Preview of Webpage
 
-![Web capture_20-7-2022_8553_](https://user-images.githubusercontent.com/106582411/179989939-12bea7fd-a949-4fb9-b41a-59f51e96b474.jpeg)
+![Web capture_20-7-2022_8553_](https://user-images.githubusercontent.com/106582411/180001771-61499048-5462-4d43-9813-1e63ca9ca9df.jpeg)
 
 ## Link to Webpage 
 https://angel-a15.github.io/Wkly-Ch1/
