@@ -40,7 +40,7 @@ replacements, so that the HTML elements follow a logical structure
 * Edited the CSS stylesheet to function with the 
 corresponding changes of the HTML semantics/elements
 
-## Final Preview of Edited Webpage with Link
+## Preview of Webpage
 
 ![Web capture_20-7-2022_8553_](https://user-images.githubusercontent.com/106582411/179989939-12bea7fd-a949-4fb9-b41a-59f51e96b474.jpeg)
 
